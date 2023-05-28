@@ -1,10 +1,10 @@
 # Bootcamp Cloud AWS Project
 
-## O que é API?
+## What is API?
 
-APIs são mecanismos que permitem que dois componentes de software se comuniquem usando um conjunto de definições e protocolos. 
+APIs are mechanisms that allow two software components to communicate using a set of definitions and protocols. 
 
 
-## O que é AWS Cognito
+## What is AWS Cognito?
 
-O Amazon Cognito oferece um armazenamento de identidade que pode ser dimensionado para milhões de usuários, oferece suporte à federação de identidades sociais e corporativas e oferece recursos avançados de segurança para proteger seus consumidores e negócios. Construído com padrões de identidade aberta, o Amazon Cognito oferece suporte a vários regulamentos de conformidade e se integra a recursos de desenvolvimento de frontend e backend.
+Amazon Cognito offers an identity store that scales to millions of users, supports the federation of social and corporate identities, and offers advanced security features to protect your consumers and business. Built on open identity standards, Amazon Cognito supports multiple compliance regulations and integrates with frontend and backend development resources.
