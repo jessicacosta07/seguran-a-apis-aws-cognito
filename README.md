@@ -1,4 +1,4 @@
-# Bootcamp Cloud AWS Project
+# Bootcamp Cloud AWS
 
 ## What is API?
 
